@@ -16,8 +16,8 @@ on:
         - "Dev"
         - "Stage"
  
-  schedule:
-    - cron: '*/1 * * * *'
+  # schedule:
+  #   - cron: '*/1 * * * *'
  
 jobs:
   test:
